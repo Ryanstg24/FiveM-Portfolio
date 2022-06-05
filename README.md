@@ -1,4 +1,6 @@
 # FiveM-Portfolio
+P.S. this is not a complete list of things I have done or helped on. I simply threw together some things.
+
 
 //Slot Machines//
 All of the current stuff in this Portfolio that I threw together just now came from Arma Development. For instance the slot machines which of course I did not provide everything, was a huge project that I am not taking all of the credit for. I worked on that with two other people over the course of a week or so to get it to work. 
