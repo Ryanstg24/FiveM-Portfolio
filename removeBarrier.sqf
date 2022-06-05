@@ -1,6 +1,5 @@
 /*
 	File: removeBarrier.sqf
-	Author: Cobra
 	
 	Description:
 	Removes a barrier?
