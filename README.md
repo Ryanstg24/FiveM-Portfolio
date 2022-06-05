@@ -22,6 +22,9 @@ I haven't really written any FiveM scripts but more or less edited other peoples
 //EUP Stuff//
 I don't mind working with clothing & Vehicles and I know people are working on this now on the Development Team but if you need any help I wouldn't mind.
 
+//Vehicles + Scripting//
+Throughout my time I had to manage custom vehicles, adding whitelisted vehicles for specific people, donator levels, adding a multitude of scripts whether they were found online or made from someone on the team. Of course making sure they were fully tested and working before a push to the live server. This took a majority of my time and I would spend hours each day.
+
 //Map Markers + MLO's//
 Adding MLO's & Map Markers to go with it (Haven't done it in months) was something that I also loved. I feel we could slowly add more MLO's and I would love to take this project on as well.
 
