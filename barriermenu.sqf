@@ -1,6 +1,5 @@
 /*
 	File: barrierMenu.sqf
-	Author: Cobra
 	
 	Description:
 	Opens the barrier menu.
