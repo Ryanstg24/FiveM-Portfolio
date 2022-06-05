@@ -28,6 +28,9 @@ Throughout my time I had to manage custom vehicles, adding whitelisted vehicles 
 //Map Markers + MLO's//
 Adding MLO's & Map Markers to go with it (Haven't done it in months) was something that I also loved. I feel we could slowly add more MLO's and I would love to take this project on as well.
 
+//Web Development//
+Ive done a couple of professional websites as well. Got paid $3000 for one and $5500 for the other. Also have done web development with Xenforo, Invision, and WordPress.
+
 //Management//
 This I am putting at the bottom but I feel it is the most important. During my Arma Development days I was either running a Community or in Management of a Community. This required a lot of Communication, working with the Community getting their input, involving Faction Leads (Department CoC may be a better word for it here). You name it I had to do it and also work with other developers which at times may be harder than you think. Keeping a Community happy, informed, and understanding that things take some time are all things I have dealt with in the past on a small and huge level. I have played here at MidWest since October of 2021 and I want to give back. I work a full time job so I am NOT going to be putting 100 hours into things but my full time job is remote and I do have downtime...(currently working lol). The other thing I wanted to mention was of course Trello Management, Time Management and suggestion management. 
 
